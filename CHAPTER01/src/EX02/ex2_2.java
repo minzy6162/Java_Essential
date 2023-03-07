@@ -1,3 +1,4 @@
+/*var 키워드를 사용하여 변수 선언*/
 package EX02;
 
 public class ex2_2 {
@@ -13,3 +14,9 @@ public class ex2_2 {
 	}// main
 
 }
+/*
+[Console]
+price = 1200
+name = kitae
+pi = 31.400000000000002
+*/

@@ -1,3 +1,4 @@
+/*Hello, 자바 프로그램의 기본 구조*/
 package EX02;
 
 public class ex2_1 {
@@ -20,3 +21,9 @@ public class ex2_1 {
 	}// main
 
 }
+/*
+[Console]
+63
+Hello
+30
+*/
